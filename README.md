@@ -10,7 +10,7 @@ sudo apt-get install git-svn
 ```
 ####3. install gitk
 ```
-sudo apt-get install git-svn
+sudo apt-get install gitk
 ```
 ####4. git clone
 ```
