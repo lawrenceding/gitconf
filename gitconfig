@@ -1,0 +1,16 @@
+[user]
+    name = Lawrence
+    email = xianlong.ding@honeywell.com
+[core]
+    editor = vim
+[alias]
+    lg = log --stat --graph --pretty=format:'%Cred%h%Creset by %an -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative --branches
+    ci = commit
+    co = checkout
+    st = status
+    br = branch
+[color]
+	diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
